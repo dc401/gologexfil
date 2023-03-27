@@ -28,7 +28,6 @@ func readFiletoHex(file_name string) string {
 	}
 	defer file.Close()
 
-	//Used ChatGPTv4 suggestion to slice the file into bytes.
 	// Read the file contents into a byte slice
 	fileInfo, err := file.Stat()
 	if err != nil {
