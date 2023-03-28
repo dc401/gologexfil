@@ -4,6 +4,9 @@ Proof of concept data exfil binary files to cloud logging via hex string
 Dennis Chow dchow[AT]xtecsystems.com March 26, 2023
 No expressed or implied warranty or liability.
 
+## Related Article
+Need some help using the solution? Check out my accompanying article: [Covert Data Exfil with GCP and Go](https://dwchow.medium.com/covert-data-exfil-with-gcp-and-go-599e361fbc17)
+
 ## Changes
 *Revision 2:
 Pair programmed with ChatGPT v4 using the preview. Lots of enhancements including the 256KB quota 
